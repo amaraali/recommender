@@ -80,13 +80,3 @@ The Spotify Music Recommender is a hybrid recommendation system built using Stre
 - Improve the interface with more visualization options.
 
 ---
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Acknowledgements
-- Spotify for providing the API to fetch track details and audio features.
-- Streamlit for making interactive web applications easy to build.
-
