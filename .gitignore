@@ -9,8 +9,8 @@ data/*
 *.ipynb
 
 # Model files
-nn_model.pkl
-svd_model.pkl
+# nn_model.pkl
+# svd_model.pkl
 
 spotify_cache.db.db
 .cache
